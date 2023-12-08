@@ -1,0 +1,12 @@
+### Module positions - created on Tue Dec 27 21:05:39 2022 ###
+### Printed by Pcbnew version (6.0.10)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                 PosX       PosY       Rot  Side
+D1        LED                   LED_D3.0mm                                          128.1410  -104.4338  180.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_bornier-2_P5.08mm                     119.3800  -103.9800   90.0000  top
+Q1        BC547                 TO-92_Inline                                        136.0761  -105.2678  180.0000  top
+R1        1k                    R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal   120.6500   -91.4400    0.0000  top
+R2        LDR07                 R_LDR_5.1x4.3mm_P3.4mm_Vertical                     132.7549   -99.0600  180.0000  top
+R3        470_ohm               R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal   120.6500  -113.3600    0.0000  top
+## End
